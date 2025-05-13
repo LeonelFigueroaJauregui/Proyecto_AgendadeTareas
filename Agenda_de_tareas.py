@@ -325,6 +325,8 @@ def borrar_todas_las_tareas():
     print(f"Lista de tareas para sabado: {tareas_sabado}")
     print(f"Lista de tareas para domingo: {tareas_domingo}")
 
+#==========================================================================================================================
+#==========================================================================================================================
 
 #Funcion 6: Salir
 def salir():
@@ -361,8 +363,6 @@ def ejecutar_programa():
 
 # Llamada para iniciar el programa
 ejecutar_programa()
-
-
 
 
 
